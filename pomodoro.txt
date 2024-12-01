@@ -1,0 +1,41 @@
+html:
+
+texto ok
+
+video de lofi ou playlist do spotfy ok
+botao pausa ok
+ botao pomodoro ok
+
+css:
+fundo verde ok
+caixa separada para os dados em verde escuro ok
+alinhamento de dados ok
+responsividade
+
+java:
+
+linkar cronometro ao botao e avisar quando acabar o time
+
+
+
+
+
+
+
+
+
+
+colocar função ativas contagem em onclick no htmlk
+
+fazer a função
+colocar inner
+colocar o set time out em mili segundos
+
+
+
+
+
+tempo =setTimeout(function() {
+
+    document.getElementById('tempo1').innerHTML="executou o se time out ", 2000
+},2000) ; 
