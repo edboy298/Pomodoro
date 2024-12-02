@@ -1,4 +1,4 @@
-alert('por gentileza se apertar em pare apertar em resetar para poder iniciar novamente')
+alert('por gentileza se apertar em pare apertar em resetar para poder iniciar novamente,site em desenvolvimento obrigado espero que curta ;)')
 
 var tempo;  // Variável global para o intervalo
 var minutos = 25;  // Inicializa com 24 minutos
