@@ -1,3 +1,5 @@
+alert('por gentileza se apertar em pare apertar em resetar para poder iniciar novamente')
+
 var tempo;  // Variável global para o intervalo
 var minutos = 25;  // Inicializa com 24 minutos
 var segundos = 0;  // Inicializa com 0 segundos
